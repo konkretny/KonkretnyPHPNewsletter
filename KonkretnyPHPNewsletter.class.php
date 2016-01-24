@@ -3,7 +3,7 @@
 Author: Marcin Romanowicz
 URL: http://konkretny.pl/
 License: MIT
-Version: 1.1
+Version: 1.1.0
 */
 class KonkretnyPHPNewsletter{
     
