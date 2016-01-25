@@ -3,7 +3,7 @@
 Author: Marcin Romanowicz
 URL: http://konkretny.pl/
 License: MIT
-Version: 1.1.0
+Version: 1.1.1
 */
 class KonkretnyPHPNewsletter{
     
@@ -25,8 +25,8 @@ class KonkretnyPHPNewsletter{
     private $db_password;
     
     //mail table settings
-    private $tablename='';
-    private $columnname='';
+    private $tablename;
+    private $columnname;
     
     
     public function __construct() {

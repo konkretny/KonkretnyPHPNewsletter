@@ -10,7 +10,7 @@
         Author: Marcin Romanowicz
         URL: http://konkretny.pl/
         License: MIT
-        Version: 1.1.0
+        Version: 1.1.1
         */
         
         require_once('KonkretnyPHPNewsletter.class.php');
@@ -38,7 +38,7 @@
         $mail->setPort(1234567); //if your port other than the default for a given database - OPTIONAL
         */
         $mail->setDb_user('user_name'); //database user name
-        $mail->setDb_password('example paswsword'); //database password
+        $mail->setDb_password('example password'); //database password
         $mail->setTablename('table_name'); //your table in database with mails adress
         $mail->setColumnname('column_name'); //your column in database with mails adress
         
