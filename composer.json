@@ -1,0 +1,17 @@
+{
+    "name": "konkretny/KonkretnyPHPNewsletter",
+    "description": "Simple PHP newsletter class.",
+    "keywords": ["php","newsletter","simple","class"],
+    "homepage": "http://konkretny.pl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcin Romanowicz",
+            "homepage": "http://konkretny.pl",
+            "role": "Author"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.24"
+    }
+}
