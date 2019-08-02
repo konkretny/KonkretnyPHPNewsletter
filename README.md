@@ -5,4 +5,4 @@ Open the index.php file to see how to use this class.
 Have fun :)
 http://konkretny.pl/
 
-v. 1.1.1
+v. 1.1.2

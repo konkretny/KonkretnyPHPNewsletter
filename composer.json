@@ -11,6 +11,11 @@
             "role": "Author"
         }
     ],
+    "autoload":{
+        "psr-4": {
+            "Konkretny\\": "src/"
+        }
+    },
     "require": {
         "php": ">=5.5.24"
     }
