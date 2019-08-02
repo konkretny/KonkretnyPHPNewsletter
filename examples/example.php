@@ -12,7 +12,7 @@
         Author: Marcin Romanowicz
         URL: http://konkretny.pl/
         License: MIT
-        Version: 1.1.1
+        Version: 1.1.2
         */
 
     require_once('../src/KonkretnyPHPNewsletter.php');
